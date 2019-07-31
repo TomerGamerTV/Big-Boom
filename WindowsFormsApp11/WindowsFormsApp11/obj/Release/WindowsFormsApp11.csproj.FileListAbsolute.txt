@@ -1,0 +1,13 @@
+C:\Users\USER\Source\Repos\WindowsFormsApp11\WindowsFormsApp11\bin\Release\WindowsFormsApp11.exe.config
+C:\Users\USER\Source\Repos\WindowsFormsApp11\WindowsFormsApp11\bin\Release\WindowsFormsApp11.exe
+C:\Users\USER\Source\Repos\WindowsFormsApp11\WindowsFormsApp11\bin\Release\WindowsFormsApp11.pdb
+C:\Users\USER\Source\Repos\WindowsFormsApp11\WindowsFormsApp11\bin\Release\FastColoredTextBox.dll
+C:\Users\USER\Source\Repos\WindowsFormsApp11\WindowsFormsApp11\bin\Release\FlatUI.dll
+C:\Users\USER\Source\Repos\WindowsFormsApp11\WindowsFormsApp11\bin\Release\WeAreDevs_API.dll
+C:\Users\USER\Source\Repos\WindowsFormsApp11\WindowsFormsApp11\obj\Release\WindowsFormsApp11.Form1.resources
+C:\Users\USER\Source\Repos\WindowsFormsApp11\WindowsFormsApp11\obj\Release\WindowsFormsApp11.Properties.Resources.resources
+C:\Users\USER\Source\Repos\WindowsFormsApp11\WindowsFormsApp11\obj\Release\WindowsFormsApp11.csproj.GenerateResource.cache
+C:\Users\USER\Source\Repos\WindowsFormsApp11\WindowsFormsApp11\obj\Release\WindowsFormsApp11.csproj.CoreCompileInputs.cache
+C:\Users\USER\Source\Repos\WindowsFormsApp11\WindowsFormsApp11\obj\Release\WindowsFormsApp11.csproj.CopyComplete
+C:\Users\USER\Source\Repos\WindowsFormsApp11\WindowsFormsApp11\obj\Release\WindowsFormsApp11.exe
+C:\Users\USER\Source\Repos\WindowsFormsApp11\WindowsFormsApp11\obj\Release\WindowsFormsApp11.pdb
